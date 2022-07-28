@@ -7,3 +7,9 @@ links to a few  recipes
 
 
 Done Successfully
+
+Added CSS to index.html
+pushed to main branch
+
+Added basic css to all 3 links.
+

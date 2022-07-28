@@ -7,7 +7,7 @@ title {
 }
 
 h1 {
-    background-color: grey;
+    background-color: lightslategray;
     font-size: 120px;
     color: orange;
     font-family: 'Courier New', Courier, monospace;
@@ -24,5 +24,10 @@ ul {
     list-style-type: none;
 }
 
-/* Wedges */
+#myDiv {
+    border: thick solid gray;
+}
+
+
+
 
